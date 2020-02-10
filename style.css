@@ -1,0 +1,139 @@
+
+body    {
+    background-color: rgb(224, 221, 221);
+    color: rgb(36, 36, 97);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    text-align: justify;
+    padding: 25px;
+    margin: 25px;
+}
+h1 {
+    background-color: rgb(8, 8, 65);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    border: rgb(8, 8, 65);
+    border-style: solid;
+    border-width: thick;
+    padding: 5px;
+    margin: 50px;
+}
+h2  {
+    background-color:  rgb(224, 221, 221);
+    color: rgb(31, 44, 44);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 31px;
+    margin: 31px;
+}
+h3  {
+    background-color: rgb(224, 221, 221);
+    color: rgb(31, 44, 44);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 31px;
+    margin:31px;
+}
+h4  {
+    background-color: rgb(224, 221, 221);
+    color: rgb(31, 44, 44);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 31px;
+    margin: 31px;
+}
+.purchasebutton {
+    text-align:center;
+    color: purple;
+    margin:auto;
+}
+button {
+    background-color: rgb(8, 8, 65);
+    border: none;
+    color: white;
+    font-weight: bolder;
+    padding: 10px 20px;
+    margin:auto;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 21px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgb(70, 5, 70);
+}
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.bg {
+  background-image: url("smithburrelll.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+.container {
+    background-color: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    left: 135px;
+    top: 275px;
+    margin: 20px;
+    max-width: 200px;
+    padding: 16px;
+}
+input[type=text], input[type=password] {
+    width: 75%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: lightgray;
+}
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+.btn {
+    background-color: rgb(66, 58, 58);
+    font-size: 15px;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 40%;
+    opacity: 0.9;
+}
+.btn:hover {
+    opacity: 1;
+}
+hr {
+    width: 90%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 80px;
+    margin-bottom:90px;
+    background-color:rgb(114, 113, 113);
+ }
+img.align-center {
+    display: block;
+    margin: 0px auto;
+    border: rgb(52, 57, 61);
+    border-style: solid;
+    border-width: thick;
+}
+.description {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
